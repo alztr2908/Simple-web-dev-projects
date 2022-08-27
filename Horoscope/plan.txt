@@ -32,4 +32,7 @@ Technical Details:
 - Code or find an API that will take the birthday of the user and will output the horoscope
 - Learn how to send the data to the API and fetch the API data to our endpoint
 
+Alzter Aquino
+123
+
 
