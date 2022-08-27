@@ -1,0 +1,35 @@
+INPUT:
+Full Name
+Age
+Birthday
+Email
+
+OUTPUT:
+Horoscope
+Message for the day 
+...details from aztro
+
+Project Details
+Mechanics
+MVP:
+1. User will input his name, age, and birthday
+2. Website will output his horoscope and the ff in the results div:
+    compatibility:"Leo"
+    date_range:"Mar 21 - Apr 20"
+    description:"Bright and early, after days of thinking about nothing but what has to be done and when it has to be completed, you're suddenly thinking about fun -- and one particular person to have fun with. Enjoy it. Guiltlessly."
+    mood:"Fun"
+    color:"Teal"
+    lucky_number:"34"
+    lucky_time:"6am"
+
+    Using the aztro API
+Sprinkles:
+3. Email the result.. find an API that will handle the emailing of the result to the user
+    if so.. add email input at the website
+
+Technical Details:
+- Create a UI at figma and make the CSS
+- Code or find an API that will take the birthday of the user and will output the horoscope
+- Learn how to send the data to the API and fetch the API data to our endpoint
+
+
